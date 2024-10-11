@@ -71,6 +71,8 @@ React Projects
 
 [Basic react project to creat a weather app](https://github.com/abhilasha0412/React-Project/tree/main/weather)
 
+[Basic react project to creat a word letter counter app](https://github.com/abhilasha0412/React-Project/tree/main/Wordlettercounter)
+
 
 Search Tab 
 
