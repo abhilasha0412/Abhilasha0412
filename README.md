@@ -47,15 +47,15 @@ Express Project
 
 React Projects
 
-[Basic react project to create a password validator](https://github.com/abhilasha0412/React-Project/tree/main/password)
+[Password Validator](https://github.com/abhilasha0412/React-Project/tree/main/password)
 
-[Basic react project to create a lyrics finder](https://github.com/abhilasha0412/React-Project/tree/main/lyrics-finder)
+[Lyrics Finder](https://github.com/abhilasha0412/React-Project/tree/main/lyrics-finder)
 
-[Basic react project for axios app](https://github.com/abhilasha0412/React-Project/tree/main/axios-lab)
+[Axios app](https://github.com/abhilasha0412/React-Project/tree/main/axios-lab)
 
-[Basic react project to creat a weather app](https://github.com/abhilasha0412/React-Project/tree/main/weather)
+[Weather app](https://github.com/abhilasha0412/React-Project/tree/main/weather)
 
-[Basic react project to creat a word letter counter app](https://github.com/abhilasha0412/React-Project/tree/main/Wordlettercounter)
+[Word Letter Counter app](https://github.com/abhilasha0412/React-Project/tree/main/Wordlettercounter)
 
 
 Search Tab 
