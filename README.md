@@ -47,9 +47,9 @@ Express Project
 
 React Projects
 
-[Password Validator](https://github.com/abhilasha0412/React-Project/tree/main/password)
+[Password Validator app](https://github.com/abhilasha0412/React-Project/tree/main/password)
 
-[Lyrics Finder](https://github.com/abhilasha0412/React-Project/tree/main/lyrics-finder)
+[Lyrics Finder app](https://github.com/abhilasha0412/React-Project/tree/main/lyrics-finder)
 
 [Axios app](https://github.com/abhilasha0412/React-Project/tree/main/axios-lab)
 
@@ -60,5 +60,5 @@ React Projects
 
 Search Tab 
 
-[Github Search Tab Project](https://github.com/abhilasha0412/Github-Search-Tab)
+[Github Search Tab ](https://github.com/abhilasha0412/Github-Search-Tab)
 
