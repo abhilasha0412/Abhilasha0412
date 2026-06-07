@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhilasha0412&label=Profile%20views&color=0e75b6&style=flat" alt="abhilasha0412" /> </p>
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **AI ML**
 
-- 💬 Ask me about **HTML, Css ,JS, React**
+- 💬 Ask me about **Java ,Python,Advancd Python**
 
 - 📫 How to reach me **abhilashasahu0412@gmail.com**
 
