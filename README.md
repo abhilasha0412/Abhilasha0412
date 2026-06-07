@@ -85,10 +85,9 @@ Here are some ideas to get you started:
 - Live Demo: https://abhilasha0412.github.io/GitScope/
 
 ### Women Safety Web
-- Developed a women safety web application to enhance user security and emergency response.
+- Developed a women safety web application to enhance user security and emergency response,Designed a responsive and user-friendly interface..
 - Built using Python, Django, HTML, CSS, JavaScript, and SQLite.
 - Implemented emergency assistance, location-based safety features, and secure user authentication.
-- Designed a responsive and user-friendly interface.
 - GitHub Repository: https://github.com/abhilasha0412/Women-Safety-with-you
 
 ### Express Project
