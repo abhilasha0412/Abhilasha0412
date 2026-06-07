@@ -84,6 +84,12 @@ Here are some ideas to get you started:
 - Technologies Used: HTML, CSS, JavaScript, GitHub REST API, Chart.js, GitHub Pages.
 - Live Demo: https://abhilasha0412.github.io/GitScope/
 
+### Women Safety Web
+Developed a women safety application using Python and Django.
+Implemented emergency assistance and location-based safety features.
+Designed secure authentication and responsive interfaces.
+🔗 GitHub Repository: https://github.com/abhilasha0412/Women-Safety-with-you.git
+
 ### Express Project
 - Developed a REST API using Express.js with CRUD operations.
 - Implemented Create, Read, Update, and Delete functionalities.
