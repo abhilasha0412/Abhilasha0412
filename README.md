@@ -57,17 +57,27 @@ Here are some ideas to get you started:
 🔗 GitHub Repository: [Basic Express APP With CRUD Operation](https://github.com/abhilasha0412/ExpressAPI-Level1)
 
 
-React Projects
+## ⚛️ React Projects
 
-[Password Validator app](https://github.com/abhilasha0412/React-Project/tree/main/password)
+### 🔐 Password Validator App
+- Validates password strength and security requirements.
+- Repository: https://github.com/abhilasha0412/React-Project/tree/main/password
 
-[Lyrics Finder app](https://github.com/abhilasha0412/React-Project/tree/main/lyrics-finder)
+### 🎵 Lyrics Finder App
+- Search and display song lyrics using an API.
+- Repository: https://github.com/abhilasha0412/React-Project/tree/main/lyrics-finder
 
-[Axios app](https://github.com/abhilasha0412/React-Project/tree/main/axios-lab)
+### 🌐 Axios App
+- Demonstrates API integration using Axios.
+- Repository: https://github.com/abhilasha0412/React-Project/tree/main/axios-lab
 
-[Weather app](https://github.com/abhilasha0412/React-Project/tree/main/weather)
+### ☁️ Weather App
+- Displays real-time weather information using a weather API.
+- Repository: https://github.com/abhilasha0412/React-Project/tree/main/weather
 
-[Word Letter Counter app](https://github.com/abhilasha0412/React-Project/tree/main/Wordlettercounter)
+### 🔤 Word Letter Counter App
+- Counts words and characters in user input.
+- Repository: https://github.com/abhilasha0412/React-Project/tree/main/Wordlettercounter
 
 
 Search Tab 
