@@ -45,6 +45,11 @@ Here are some ideas to get you started:
 - Provides resume insights and predicts suitable job categories.
 - LiveDemo: https://resume-analyzer-fyrmwy8fvhvvtq6qwzmaaj.streamlit.app/
 
+### GitScope – GitHub Developer & Repository Explorer
+- Developed a responsive web application to search GitHub developers and repositories using the GitHub REST API.
+- Technologies Used: HTML, CSS, JavaScript, GitHub REST API, Chart.js, GitHub Pages.
+- Live Demo: https://abhilasha0412.github.io/GitScope/
+
 Express Project
 
 [Basic Express APP With CRUD Operation](https://github.com/abhilasha0412/ExpressAPI-Level1)
