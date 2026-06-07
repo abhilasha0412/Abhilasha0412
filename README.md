@@ -39,6 +39,10 @@ Here are some ideas to get you started:
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhilasha0412&show_icons=true&locale=en&layout=compact" alt="abhilasha0412" /></p>
 
+### AI Resume Analyzer
+- Resume analysis using Machine Learning
+- Built with Python and Streamlit
+- LiveDemo: https://resume-analyzer-fyrmwy8fvhvvtq6qwzmaaj.streamlit.app/
 
 Express Project
 
