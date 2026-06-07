@@ -50,9 +50,11 @@ Here are some ideas to get you started:
 - Technologies Used: HTML, CSS, JavaScript, GitHub REST API, Chart.js, GitHub Pages.
 - Live Demo: https://abhilasha0412.github.io/GitScope/
 
-Express Project
-
-[Basic Express APP With CRUD Operation](https://github.com/abhilasha0412/ExpressAPI-Level1)
+### Express Project
+- Developed a REST API using Express.js with CRUD operations.
+- Implemented Create, Read, Update, and Delete functionalities.
+- Built using Node.js and Express.js.
+🔗 GitHub Repository: [Basic Express APP With CRUD Operation](https://github.com/abhilasha0412/ExpressAPI-Level1)
 
 
 React Projects
