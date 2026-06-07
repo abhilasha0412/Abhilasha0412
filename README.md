@@ -39,6 +39,8 @@ Here are some ideas to get you started:
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhilasha0412&show_icons=true&locale=en&layout=compact" alt="abhilasha0412" /></p>
 
+🚀 Featured Projects
+
 ### AI Resume Analyzer
 - Developed a machine learning-based web application to analyze and classify resumes.
 - Built using Python, Streamlit, Scikit-learn, TF-IDF, and Naive Bayes.
