@@ -114,7 +114,5 @@ Here are some ideas to get you started:
 - Repository: https://github.com/abhilasha0412/React-Project/tree/main/Wordlettercounter
 
 
-Search Tab 
 
-[Github Search Tab ](https://github.com/abhilasha0412/Github-Search-Tab)
 
